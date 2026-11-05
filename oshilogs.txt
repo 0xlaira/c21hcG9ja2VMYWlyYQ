@@ -12,39 +12,43 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Laira =====
-[1]Laira       |12:49:58 | 04-11-2026| login OK @lairagayatri | score=2850 rank=2661
-[1]Laira       |12:49:58 | 04-11-2026| serverTime=2026-11-04T12:49:58.000Z local=2026-11-04T12:49:58.393Z
+[1]Laira       |12:58:27 | 05-11-2026| login OK @lairagayatri | score=2890 rank=2616
+[1]Laira       |12:58:27 | 05-11-2026| serverTime=2026-11-05T12:58:27.000Z local=2026-11-05T12:58:27.638Z
 --> [1]Laira menjalankan: Claim Daily
-[1]Laira       |12:49:59 | 04-11-2026| daily: OK +10 poin score=2860
---> [1]Laira menjalankan: Auto All Tasks (3 pending)
-[1]Laira       |12:50:02 | 04-11-2026| [1/3] bcc1d6fd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bcc1d6fd-b80e-43c3-b134-cce3484ea8dd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211794283928824 | proof=https://x.com/lairagayatri/status/2117962155715901081
-[1]Laira       |12:50:02 | 04-11-2026| delay 10s...
-[1]Laira       |12:50:16 | 04-11-2026| [2/3] fefe8b6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bcc1d6fd-b80e-43c3-b134-cce3484ea8dd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211794283928824 | proof=https://x.com/lairagayatri/status/2117962100458522541
-[1]Laira       |12:50:16 | 04-11-2026| delay 10s...
-[1]Laira       |12:50:30 | 04-11-2026| [3/3] 9149dbd0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bcc1d6fd-b80e-43c3-b134-cce3484ea8dd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211794283928824 | proof=https://x.com/lairagayatri/status/2117962126684824696
-[1]Laira       |12:50:30 | 04-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Laira       |12:50:31 | 04-11-2026| [1/1] bcc1d6fd (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"bcc1d6fd-b80e-43c3-b134-cce3484ea8dd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117942839288242 | proof=https://x.com/lairagayatri/status/2117962388502659178
+[1]Laira       |12:58:29 | 05-11-2026| daily: OK +10 poin score=2900
+--> [1]Laira menjalankan: Auto All Tasks (5 pending)
+[1]Laira       |12:58:31 | 05-11-2026| [1/5] bf0ad10d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bf0ad10d-6ea5-471f-a48b-f257b0b099df","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211832172853141 | proof=https://x.com/lairagayatri/status/2118326579324247920
+[1]Laira       |12:58:31 | 05-11-2026| delay 10s...
+[1]Laira       |12:58:43 | 05-11-2026| [2/5] edbd5fee (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bf0ad10d-6ea5-471f-a48b-f257b0b099df","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211832172853141 | proof=https://x.com/lairagayatri/status/2118326717452273325
+[1]Laira       |12:58:43 | 05-11-2026| delay 10s...
+[1]Laira       |12:58:55 | 05-11-2026| [3/5] 122ee3f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bf0ad10d-6ea5-471f-a48b-f257b0b099df","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211832172853141 | proof=https://x.com/lairagayatri/status/2118326734061208421
+[1]Laira       |12:58:55 | 05-11-2026| delay 10s...
+[1]Laira       |12:59:07 | 05-11-2026| [4/5] 5ff4a15b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bf0ad10d-6ea5-471f-a48b-f257b0b099df","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211832172853141 | proof=https://x.com/lairagayatri/status/2118326897500628840
+[1]Laira       |12:59:07 | 05-11-2026| delay 10s...
+[1]Laira       |12:59:19 | 05-11-2026| [5/5] 71a6b26f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"bf0ad10d-6ea5-471f-a48b-f257b0b099df","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211832172853141 | proof=https://x.com/lairagayatri/status/2118326840291478168
+[1]Laira       |12:59:19 | 05-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Laira       |12:59:21 | 05-11-2026| [1/1] bf0ad10d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"bf0ad10d-6ea5-471f-a48b-f257b0b099df","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118321728531419 | proof=https://x.com/lairagayatri/status/2118326840984223298
 --> [1]Laira menjalankan: Watch Anime
-[1]Laira       |12:50:32 | 04-11-2026| watch: semua video sudah completed
+[1]Laira       |12:59:22 | 05-11-2026| watch: semua video sudah completed
 --> [1]Laira menjalankan: Read Article
-[1]Laira       |12:50:34 | 04-11-2026| news: 34/34 artikel selesai dibaca
-[1]Laira       |12:50:35 | 04-11-2026| mint eligibility: {"userId":"1702766496538304512","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Laira       |12:50:35 | 04-11-2026| news: semua artikel sudah dibaca
+[1]Laira       |12:59:23 | 05-11-2026| news: 34/34 artikel selesai dibaca
+[1]Laira       |12:59:25 | 05-11-2026| mint eligibility: {"userId":"1702766496538304512","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Laira       |12:59:25 | 05-11-2026| news: semua artikel sudah dibaca
 --> [1]Laira menjalankan: Quiz Anime
 --> [1]Laira menjalankan: Music Missions (realtime, bisa lama!)
-[1]Laira       |12:50:38 | 04-11-2026| music: kedua misi sudah tercapai, stop
-[1]Laira       |12:50:38 | 04-11-2026| mission music-listens-10: sudah diklaim
-[1]Laira       |12:50:38 | 04-11-2026| mission music-minutes-30: sudah diklaim
-[1]Laira       |12:50:38 | 04-11-2026| mission anime-completed-3: sudah diklaim
+[1]Laira       |12:59:27 | 05-11-2026| music: kedua misi sudah tercapai, stop
+[1]Laira       |12:59:28 | 05-11-2026| mission music-listens-10: sudah diklaim
+[1]Laira       |12:59:28 | 05-11-2026| mission music-minutes-30: sudah diklaim
+[1]Laira       |12:59:28 | 05-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laira menjalankan: Claim Missions
-[1]Laira       |12:50:39 | 04-11-2026| mission music-listens-10: sudah diklaim
-[1]Laira       |12:50:39 | 04-11-2026| mission music-minutes-30: sudah diklaim
-[1]Laira       |12:50:39 | 04-11-2026| mission anime-completed-3: sudah diklaim
+[1]Laira       |12:59:29 | 05-11-2026| mission music-listens-10: sudah diklaim
+[1]Laira       |12:59:29 | 05-11-2026| mission music-minutes-30: sudah diklaim
+[1]Laira       |12:59:29 | 05-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laira menjalankan: Check Eligibility
 
 --- eligibility [1]Laira ---
-  @lairagayatri | score=2850 rank=2661
-  tasks    [#####---------------] 1/4
+  @lairagayatri | score=2890 rank=2616
+  tasks    [###-----------------] 1/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -55,17 +59,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Laira menjalankan: Read Manga
-[1]Laira       |12:50:43 | 04-11-2026| manga: 0/13 chapter belum completed
+[1]Laira       |12:59:33 | 05-11-2026| manga: 0/13 chapter belum completed
 --> [1]Laira menjalankan: Get Gift
-[1]Laira       |12:50:45 | 04-11-2026| gift: 3/9 belum diterima
-[1]Laira       |12:50:46 | 04-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Laira       |12:50:49 | 04-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Laira       |12:50:52 | 04-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Laira       |12:59:35 | 05-11-2026| gift: 3/9 belum diterima
+[1]Laira       |12:59:36 | 05-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Laira       |12:59:39 | 05-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Laira       |12:59:42 | 05-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Laira menjalankan: Setup Profile
-[1]Laira       |12:50:55 | 04-11-2026| profile: bio="https://x.com/lairagayatri" fav=amato rewardAt=1791685377
-[1]Laira       |12:50:55 | 04-11-2026| profile: bonus sudah diklaim, skip
+[1]Laira       |12:59:44 | 05-11-2026| profile: bio="https://x.com/lairagayatri" fav=amato rewardAt=1791685377
+[1]Laira       |12:59:44 | 05-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Laira menjalankan: Bind Wallet
-[1]Laira       |12:50:56 | 04-11-2026| wallet: sudah terikat 5jCPH6kWzk... (solana)
+[1]Laira       |12:59:45 | 05-11-2026| wallet: sudah terikat 5jCPH6kWzk... (solana)
 
 == RINGKASAN ==
-- Laira: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Laira: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
